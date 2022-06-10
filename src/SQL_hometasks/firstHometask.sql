@@ -11,7 +11,7 @@ CREATE TABLE book (
 INSERT INTO book(book_name, book_about, created_at, author_name, category)
 VALUES
 
-("This is 1984","A book about distopia world",'1945-03-02' ,"George Orwel","anti-utopia"),
+--("This is 1984","A book about distopia world",'1945-03-02' ,"George Orwel","anti-utopia"),
 ('Outsider','A book about pereption and degradation of one man','1942-09-11','Albert Camus','philosophy'),
 ('Myth of Sisyphus','A book about suicide', '1942-05-25','Albert Camus', 'philosophy');
 
